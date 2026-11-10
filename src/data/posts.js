@@ -64,3 +64,9 @@ export const posts = Array.from({ length: 20 }, (_, index) => {
     comments: []
   };
 });
+
+export const categories = [
+  'Barchasi',
+  'Xotiralar',
+  'Logo'
+];
